@@ -12,7 +12,7 @@ As a seasoned Senior Front End Developer with over five years of experience, I e
 
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript, Python, C++, PHP
 - **Recently Used Frameworks:** React, Next.js, Solid.js
-- **Recently Used Tools: Supabase, Prisma, tRPC, ZOD, Figma, Eraser.io, ShadCN.
+- **Recently Used Tools:** Supabase, Prisma, tRPC, ZOD, Figma, Eraser.io, ShadCN.
 - **Version Control:** Git
 - **Focus:** Responsive Design, Web Performance Optimization, User Experience, User Interfaces.
 
