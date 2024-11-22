@@ -49,9 +49,7 @@ As a seasoned Senior Front End Developer with over five years of experience, I e
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bySharkster&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
 
 ## 🤝 Let's Connect
 
